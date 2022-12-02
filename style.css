@@ -1,0 +1,161 @@
+body {
+    
+    position: absolute;
+    width: 1280px;
+    height: 720px;
+    left: 0px;
+    top: 0px;
+    
+    background: #2C2B3D;
+    
+}
+
+.service {
+    margin: 0 64px;
+}
+
+nav a {
+    
+    text-decoration: none;
+
+
+    font-family:'JetBrains Mono', monospace;
+    font-size: 14px;
+    color: #FFFFFF;
+    
+    
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px;
+
+    text-align: center;
+
+    width: 306px;
+    height: 30.05px;
+
+    
+}
+
+header {
+    display: flex;
+    align-items: center;
+    width: 1083px;
+    height: 30px;
+    
+    
+    margin: 71px 98px 101px 99px;
+}
+
+.logo {
+    
+    display:flex;
+    margin-right: 602px;
+    
+    font-family: 'JetBrains Mono', monospace;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    color: #FFFFFF;
+    
+}
+
+
+main {
+    display: flex;
+    
+    
+    
+    margin: 0 89px 157px 99px;
+}
+
+.main {
+
+    font-family:'JetBrains Mono', monospace;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 40px;
+    color: #FFFFFF;
+    text-align:center;
+
+
+    margin: 0 0 0 77px;
+
+}
+
+p {
+
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    /* or 175% */
+    text-align: center;
+
+    color: #C2C2C2;
+
+    mix-blend-mode: normal;
+
+    margin: 52px 0 0 82px;
+}
+
+span{
+    color: #00BFA6;
+}
+
+footer a{
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+footer {
+    display: flex;
+
+    width: 568px;
+    height: 55px;
+
+
+    align-items: flex-end;
+    justify-content: center;
+    margin-top: 0 ;
+    margin-bottom: 23px;
+    margin-left: 456px;
+    
+
+    font-family: 'JetBrains Mono';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 28px;
+    color: #FFFFFF;
+
+    border-top: 1px solid #00BFA6;
+}
+
+
+
+
+
+
+.cadeadoladinho {
+    width: 51px;
+    height: 62px;
+    position: fixed;
+    bottom:0;
+    left: 0;
+
+    margin-left: 20px;
+    margin-bottom: 20px;
+    
+
+}
+
+
+a:hover {
+
+    opacity: 0.5;
+    color: #00BFA6;
+
+}
